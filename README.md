@@ -14,11 +14,11 @@ This project is specifically made for One UI 8.0.
 
 📱💫 Supported Devices
 
-Device	Model	OS
-🟢 Galaxy M55	SM-M556B
-🟢 Galaxy M55s	SM-M558B
-🟢 Galaxy F55	SM-E556B
-🟢 Galaxy C55	SM-C5560
+Device	Model	
+Galaxy M55 SM-M556B
+Galaxy M55s SM-M558B
+Galaxy F55 SM-E556B
+Galaxy C55 SM-C5560
 
 ⚠️ Compatibility can vary depending on firmware build, CSC, and device configuration.
 
