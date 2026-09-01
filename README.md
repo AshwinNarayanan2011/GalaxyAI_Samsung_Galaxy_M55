@@ -1,3 +1,4 @@
+![Galaxy AI Enhancement](E1AB87B4-62CE-411D-A2D1-91B246BDF9AB.png)
 🤖✨ Galaxy AI Enhancement — Samsung Galaxy M55 Family
 
 🚀 Bring more Galaxy AI & flagship One UI features to the Galaxy M55 family!
